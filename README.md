@@ -1,6 +1,6 @@
 # 👨‍💻 João Vitor
 
-Estudante de Ciência da Computação. Gosto de trabalhar em equipe, de liderança e, fora do código, de jogar futebol.
+Estudante de Ciência da Computação (UniCEUB) | Aprendendo HTML, CSS e Python | Construindo meus primeiros projetos
 
 ## 🚀 Tecnologias
 
