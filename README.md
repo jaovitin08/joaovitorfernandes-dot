@@ -11,6 +11,7 @@ Estudante de Ciência da Computação (UniCEUB) | Aprendendo HTML, CSS e Python 
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Vitor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-fernandes-cunha-2abb0a265/)
+<br/>
 [![Email](https://img.shields.io/badge/Email-jvfc2008%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvfc2008@gmail.com)
 
 ## 📂 Estrutura do Repositório
